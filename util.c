@@ -3,3 +3,10 @@ int temp=data[index1];
 data[index1]=data [index2] ;
 data[index2]=temp;
 }
+
+void greeting_from_coder() {
+
+
+    // just welcome greeting 
+
+}
